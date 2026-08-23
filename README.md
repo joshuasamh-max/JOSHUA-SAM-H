@@ -91,11 +91,10 @@ Control Systems     █████░░░░░░  Learning
 
 
 
-
 ---
 
 ## 🐍 My GitHub Contributions
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/joshuasamh-max/JOSHUA-SAM-H/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
+  <img src="https://raw.githubusercontent.com/joshuasamh-max/JOSHUA-SAM-H/gh-pages/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
 </p>
